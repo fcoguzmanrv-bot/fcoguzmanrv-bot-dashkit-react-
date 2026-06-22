@@ -1,6 +1,5 @@
 import StatsCard from "../components/StatsCard";
 import RevenueChart from "../components/RevenueChart";
-import Badge from "../components/Badge";
 import { stats, topProducts, recentActivity } from "../data/mock";
 
 export default function Overview() {
